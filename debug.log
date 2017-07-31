@@ -1,0 +1,7 @@
+[0307/084339.267:ERROR:exception_handler_server.cc(524)] ConnectNamedPipe: 管道正在被关闭。 (0xE8)
+[0308/093325.530:ERROR:exception_handler_server.cc(524)] ConnectNamedPipe: 管道正在被关闭。 (0xE8)
+[0308/094327.770:ERROR:exception_handler_server.cc(524)] ConnectNamedPipe: 管道正在被关闭。 (0xE8)
+[0308/161547.672:ERROR:exception_handler_server.cc(524)] ConnectNamedPipe: 管道正在被关闭。 (0xE8)
+[0308/163422.680:ERROR:exception_handler_server.cc(524)] ConnectNamedPipe: 管道正在被关闭。 (0xE8)
+[0309/102754.639:ERROR:exception_handler_server.cc(524)] ConnectNamedPipe: 管道正在被关闭。 (0xE8)
+[0313/140306.493:ERROR:exception_handler_server.cc(524)] ConnectNamedPipe: 管道正在被关闭。 (0xE8)
